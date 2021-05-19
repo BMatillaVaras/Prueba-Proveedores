@@ -7,7 +7,7 @@ The test consists of automating a process that performs a search on the Generali
 ## Installation
 
 
-Clone the repository on your computer and run in the terminal
+Clone the repository on your computer and run in the terminal:
 
 ``` 
 npm install
@@ -16,7 +16,7 @@ npm install
 
 ## Run
 
-Si quieres ejecutar el proyecto utiliza el comando
+If you want to run the project use the command:
 
 ```
 node index.js
