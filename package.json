@@ -1,0 +1,19 @@
+{
+  "name": "prueba-proveedores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMatillaVaras/Prueba-Proveedores.git"
+  },
+  "author": "Belén Matilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BMatillaVaras/Prueba-Proveedores/issues"
+  },
+  "homepage": "https://github.com/BMatillaVaras/Prueba-Proveedores#readme"
+}
