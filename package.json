@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BMatillaVaras/Prueba-Proveedores/issues"
   },
-  "homepage": "https://github.com/BMatillaVaras/Prueba-Proveedores#readme"
+  "homepage": "https://github.com/BMatillaVaras/Prueba-Proveedores#readme",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  }
 }
