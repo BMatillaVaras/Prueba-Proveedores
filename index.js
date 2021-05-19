@@ -8,8 +8,11 @@ async function main() {
     const page = await context.newPage();
     // Navigate to: https://web.gencat.cat/ca/inici
     await page.goto('https://web.gencat.cat/ca/inici');
-    //
+    // To fill in the search input
     await page.fill('id=cercadorOcultGoogle', 'agenda cultural');
+    // To click the search button
     await page.click('[aria-label="Cercar"]');
+
+    // await browser.close();
 }
 main();
